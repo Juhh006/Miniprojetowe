@@ -1,0 +1,27 @@
+footer{
+    background-color: rgba(20, 20, 20, 0.89);
+    height: 15%;
+    width: 100%;
+    display: flex;
+}
+.fo{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.5rem;
+    width: 22%;
+    margin: 25px;
+    padding: 20px;
+}
+.whats{
+    height: 12%;
+}
+.insta{
+    height: 12%;
+}
+.email{
+    height: 12%;
+}
+.local{
+    height: 12%;
+}
